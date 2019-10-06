@@ -1,7 +1,7 @@
 package FizzBuzzInTheMain;
 /**
  * mainメソッドにFizzBuzzを書きます。 
- * 
+ * このコメントは、Gitの練習のために書き込みます。
  * @author onohdn
  *
  */
