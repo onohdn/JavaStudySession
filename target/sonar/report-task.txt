@@ -1,0 +1,6 @@
+projectKey=maven.FizzBuzz:FizzBuzz
+serverUrl=http://52.198.8.7:9000
+serverVersion=7.2.1.14109
+dashboardUrl=http://52.198.8.7:9000/dashboard?id=maven.FizzBuzz%3AFizzBuzz
+ceTaskId=AW3KrPbncuLCzE-dcBjU
+ceTaskUrl=http://52.198.8.7:9000/api/ce/task?id=AW3KrPbncuLCzE-dcBjU

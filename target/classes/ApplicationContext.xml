@@ -4,6 +4,6 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
            http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
            
-   <bean id="fizzBuzz" class="FizzBuzzUsingSpringFW.FizzBuzz" ></bean>
+   <bean id="fizzBuzz" class="FizzBuzzUsingStream.FizzBuzz" ></bean>
    
 </beans>
